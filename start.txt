@@ -1,4 +1,8 @@
 asdas
 asdasas
+<<<<<<< HEAD
 af
+=======
+af modified left
+>>>>>>> 66a30e6ae00a8e70cec6488f255ee4ca544ee5b0
 asdas
