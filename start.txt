@@ -1,6 +1,5 @@
-login 1
+login master 1
 -
-login 2
 asdas
 asdasas
 af modified left
